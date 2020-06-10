@@ -1,0 +1,26 @@
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+	color: #868589;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
+th{
+	background: #f1f8fe;
+	color: #63a5d6;
+}
+
+
+tr:hover {
+	background: #f1f8fe;
+	color: #63a5d6;
+}
+
+.Table{
+	border: 1px solid #63a5d6;
+}

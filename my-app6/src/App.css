@@ -1,0 +1,45 @@
+.App {
+  border: 1px solid #63a5d6;
+  padding: 20px;
+}
+
+.row{
+  overflow: hidden;
+}
+
+.col{
+  float: left;
+}
+
+.col.col-sm-12{
+  width: 100%;
+}
+
+h3{
+	height: 30px;
+}
+
+
+.table-panel{
+	
+}
+
+.chart-panel{
+	background: #f1f8fe;
+	text-align: center;
+}
+
+
+button{
+	background: #2799f9;
+	padding: 10px;
+	margin: 10px;
+	color: #ffffff;
+	border: 0;
+}
+
+@media only screen and (min-width: 769px) {
+  .col.col-md-6 {
+    width: 50%;
+  }
+}
